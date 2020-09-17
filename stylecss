@@ -1,0 +1,80 @@
+.rougesouligné
+{
+	color: #b40000;
+	text-decoration: underline;
+}
+
+.petit
+{
+	font-size: 0.5em;
+}
+
+*
+{
+	font-family: open sans, arial narrow, arial black, cambria maths;
+}
+
+.blue
+{
+	color: blue;
+}
+
+.navy
+{
+	color: navy;
+}
+
+a
+{
+	color: #2b6b78;
+	text-decoration: underline;
+}
+
+a:visited
+{
+	color: #9e385b
+}
+
+.contrast
+{
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+.constrast
+{
+	font-size: 1.5em;
+	text-decoration: underline;
+	color: #454545;
+}
+
+.new
+{
+	font-family: cambria maths, cambria, arial narrow;
+}
+
+.white
+{
+	color: #FFFF; 
+}
+
+.imagechat
+{
+	float: left;
+}
+
+.petitb
+{
+	font-size: 0.8em;
+	clear: left;
+}
+
+.raton
+{
+	float: center;
+}
+
+h2
+{
+	color: #6a1940;
+}
